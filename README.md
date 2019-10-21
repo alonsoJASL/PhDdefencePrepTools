@@ -1,7 +1,7 @@
-# PhD Defense Prep Tools
+# PhD Defence Prep Tools
 
 In this repository, I will try to put all the help I created for myself for my _viva_
-(or PhD defense, however you want to call it). At the moment it only contains one 
+(or PhD defence, however you want to call it). At the moment it only contains one 
 document intended for you to sumarise your entire document in a few pages. 
 
 `revisionThesis.xlsx`. It contains all the page numbers in your thesis. 
