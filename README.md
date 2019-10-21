@@ -1,4 +1,4 @@
-# PhDdefensePrepTools
+# PhD Defense Prep Tools
 
 In this repository, I will try to put all the help I created for myself for my _viva_
 (or PhD defense, however you want to call it). At the moment it only contains one 
